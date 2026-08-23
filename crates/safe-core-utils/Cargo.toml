@@ -2,6 +2,7 @@
 name = "safe-core-utils"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
 description = "Utilitarios do Safe-Core — Architectural Decision Log, Provenance, Helpers"
 
 [dependencies]
