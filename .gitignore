@@ -1,3 +1,10 @@
 # ... existing content ...
 target/
 **/target/
+
+# Compiled Python
+__pycache__/
+*.pyc
+
+# Security audit state
+test_security_state_v7/
